@@ -1,6 +1,6 @@
 # React Blog
 
-A portfolio project — a blog browser built with React and Vite. Fetches users, posts, and comments from the [JSONPlaceholder](https://jsonplaceholder.typicode.com) API.
+A demo project — a blog browser built with React and Vite. Fetches users, posts, and comments from the [JSONPlaceholder](https://jsonplaceholder.typicode.com) API.
 
 ## Features
 
